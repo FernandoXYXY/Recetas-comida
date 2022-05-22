@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\85ee5d05c8cc9ad1a0475829b50955b3\\transformed\\jetified-play-services-auth-16.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\85ee5d05c8cc9ad1a0475829b50955b3\\transformed\\jetified-play-services-auth-16.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\85ee5d05c8cc9ad1a0475829b50955b3\\transformed\\jetified-play-services-auth-16.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

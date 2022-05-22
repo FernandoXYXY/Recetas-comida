@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

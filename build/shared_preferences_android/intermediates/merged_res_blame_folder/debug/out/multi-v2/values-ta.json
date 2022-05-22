@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\shared_preferences_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ta\\values-ta.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\values-ta\\values-ta.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

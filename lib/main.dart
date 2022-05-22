@@ -30,17 +30,19 @@ Future<void> main() async {
     bannerAdUnitId: AdmobConfig.bannerAdUnitId,
     interstitialAdUnitId: AdmobConfig.interstitualAdUnitId,
   );
-  timeago.setLocaleMessages('fr', timeago.FrMessages());
-  timeago.setLocaleMessages('ar', timeago.ArMessages());
+  timeago.setLocaleMessages('es', timeago.FrMessages());
+  timeago.setLocaleMessages('es', timeago.ArMessages());
   runApp(
     EasyLocalization(
+    
       supportedLocales: [
-        Locale('en', 'US'),
-        Locale('fr', 'FR'),
-        Locale('ar', 'AL'),
+        Locale('es', 'ES'),
+        //Locale('fr', 'FR'),
+        //Locale('ar', 'AL'),
       ],
       path: 'lang',
-      fallbackLocale: Locale('en', 'US'),
+      fallbackLocale: Locale('es', 'ES'),
+      saveLocale: true,
       child: MultiProvider(
         providers: [
           ChangeNotifierProvider(create: (_) => AuthProvider()),

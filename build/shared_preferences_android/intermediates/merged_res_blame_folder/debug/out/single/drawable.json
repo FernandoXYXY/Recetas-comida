@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\589a7045eee8b6679611ea3225a4b1f4\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\e3bbf121d70ce72f738c630844d33367\\transformed\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\e3bbf121d70ce72f738c630844d33367\\transformed\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldiaz\\Desktop\\flutter\\Recetas-comida\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ldiaz\\.gradle\\caches\\transforms-3\\e3bbf121d70ce72f738c630844d33367\\transformed\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

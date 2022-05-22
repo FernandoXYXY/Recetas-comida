@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="zhuoyuan.li.fluttershareme" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:4:5-67
+7-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:4:22-64
+8    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+8-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:5:5-80
+8-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:5:22-78
+9
+10    <application>
+10-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:6:5-16:19
+11        <provider
+11-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:7:9-15:20
+12            android:name="zhuoyuan.li.fluttershareme.util.ShareFileProvider"
+12-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:8:13-51
+13            android:authorities="${applicationId}.provider"
+13-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:9:13-60
+14            android:exported="false"
+14-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:10:13-37
+15            android:grantUriPermissions="true" >
+15-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:11:13-47
+16            <meta-data
+16-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:12:13-14:54
+17                android:name="android.support.FILE_PROVIDER_PATHS"
+17-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:13:17-67
+18                android:resource="@xml/file_paths" />
+18-->C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_share_me-1.2.0\android\src\main\AndroidManifest.xml:14:17-51
+19        </provider>
+20    </application>
+21
+22</manifest>
